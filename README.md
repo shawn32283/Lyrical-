@@ -1,4 +1,19 @@
+lyrical - Pair Code Generator
+> **A simple and elegant way to generate pairing codes for bots with lyrical Baileys using mega.js. Easily deployable and ready for integration into your bot system.**
 
+- **Fork**, **Star**, and **Edit** as you wish.
+- **Deploy** on Heroku, Render, or Koyeb with one click.
+- Integrated into **[lyrical 🫴Site](https://pairing.ech.web.id)**. 
+
+### **Important Note:**
+This repo generates pairing codes and session IDs for bots using **lyrical Baileys** powered by **mega.js**.
+
+---
+
+<p align="center">
+   <a href="https://github.com/lyrical">
+    <img src="https://i.imgur.com/teQzVR1.jpeg" width="500">
+   </a>
 
 
 
