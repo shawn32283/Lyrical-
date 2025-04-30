@@ -1,11 +1,4 @@
-<a href='t.me/freditech' target="_grey"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram For Dev-grey?style=for-the-badge&logo=telegram&logoColor=blue'/></a>
-<a href='https://t.me/+u3zlb5y6OfxhOTdk' target="_grey"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-grey?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
-<a href='https://www.linkedin.com/in/fredi-ezra-6956352b7' target="_grey"><img alt='LINKEDIN' src='https://img.shields.io/badge/LinkedIn For Dev-grey?style=for-the-badge&logo=linked-In&logoColor=blue'/></a>
-<a href='https://www.tiktok.com/@fredietech' target="_grey"><img alt='TIKTOK' src='https://img.shields.io/badge/TikTok For Dev-grey?style=for-the-badge&logo=tiktok&logoColor=black'/></a>
-<a href='https://www.facebook.com/profile.php?id=61553209932337' target="_grey"><img alt='FACEBOOK' src='https://img.shields.io/badge/Facebook For Dev-grey?style=for-the-badge&logo=facebook&logoColor=blue'/></a>
-<a href='https://www.instagram.com/fredi.simba.tz' target="_grey"><img alt='INSTAGRAM' src='https://img.shields.io/badge/Instagram For Dev-grey?style=for-the-badge&logo=instagram&logoColor=purple'/></a>
-  <a href='https://www.threads.net/@fredi.simba.tz' target="_grey"><img alt='THREADS' src='https://img.shields.io/badge/Threads For Dev-grey?style=for-the-badge&logo=threads&logoColor=black'/></a>
-</details>
+
 
 
 
